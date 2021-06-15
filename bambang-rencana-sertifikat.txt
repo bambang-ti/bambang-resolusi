@@ -1,0 +1,8 @@
+resolusi rencana sertifikat
+- dicoding academy
+- sololearn
+  * php
+  * css
+  * javascript
+- cisco
+- mikrotik/CCNA
