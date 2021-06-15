@@ -1,6 +1,6 @@
 Resolusi bambang:
 - menyelesaikan semester 2 dengan baik
 - menjalankan amanah organisasi dengan sebaik-baiknya
-- menyelesaikan course dicoding academy front end pemula
 - paham php dasar dan menengah
 - mempunyai banyak sertifikat keahlian
+- mempercantik tampilan github dan linkedin
